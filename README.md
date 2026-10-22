@@ -53,11 +53,11 @@ The data are processed using Python, primarily with `xarray`, `NumPy`, `pandas`,
 
 ERA5-Land data are processed to extract the Chillai Kalan period for each winter season. The period is constructed by combining 21–31 December with 1–29 January of the following calendar year.
 
-Daily minimum and maximum temperatures are derived from the available temperature data. Temperature values are converted from kelvin to degrees Celsius where appropriate.
+Daily minimum and maximum temperatures are derived from the available temperature data then the values are converted from Kelvin to degree Celsius everywhere because it is easier to comprehend I assume.
 
 ### 2. Cold-Wave Analysis
 
-Cold-wave conditions are examined using temperature-based criteria. Cold-wave days and cold-spell duration are analysed to investigate the frequency and persistence of severe cold conditions.
+Cold-wave conditions are examined using temperature-based criteria (see IMD definition for cold wave and severe cold wave). Cold-wave days and cold-spell duration are analysed to investigate the frequency and persistence of severe cold conditions.
 
 The analysis also examines consecutive cold days, following the adopted cold-wave definition.
 
@@ -75,7 +75,7 @@ The percentile-based indices use the 1991–2020 reference period, consistent wi
 
 ### 4. Anomaly Analysis
 
-Temperature anomalies are calculated relative to the climatological reference period. Snowfall, snow depth, and precipitation are also analysed to investigate variations during Chillai Kalan.
+Temperature anomalies are calculated relative to the climatological reference period. Snowfall, snow depth, and precipitation are also analyzed to investigate variations during Chillai Kalan. But not much importance is give to these indices yet as of October 2026 :)
 
 ### 5. Trend Analysis
 
@@ -110,6 +110,7 @@ temperatures during the Chillai Kalan period. On the top of this, Pahalgam was t
 station to exhibit a statistically significant decreasing trend in seasonal mean minimum
 temperature (TNm), while the remaining stations did not show significant long-term
 changes in mean minimum temperature.
+
 Overall, the finding suggests that although the frequency/persistence of cold waves
 have remained relatively stable over the past four and a half decades, winter temperature
 characteristics displays vivid spatial heterogeneity across the Kashmir Valley. The DTR
