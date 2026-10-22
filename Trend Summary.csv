@@ -1,0 +1,55 @@
+Station,Index,MK Trend,Kendall Tau,p-value,Sen's Slope,Significant (α=0.05)
+Srinagar,Cold Wave Days,no trend,0.012,0.9125,0.0,No
+Srinagar,Severe Cold Wave Days,no trend,0.14,0.0519,0.0,No
+Srinagar,Frost Days,no trend,0.072,0.4754,0.0,No
+Srinagar,Lowest minimum temperature,no trend,-0.053,0.6179,-0.0103,No
+Srinagar,Mean minimum temperature,no trend,0.036,0.7321,0.0042,No
+Srinagar,cool nights,no trend,-0.038,0.7148,0.0,No
+Srinagar,warm nights,no trend,-0.01,0.9293,0.0,No
+Srinagar,Cold Spell Duration Indicator,no trend,0.143,0.066,0.0,No
+Srinagar,Diurnal Temperature Range,increasing,0.281,0.0067,0.0401,Yes
+Gulmarg,Cold Wave Days,no trend,0.015,0.8843,0.0,No
+Gulmarg,Severe Cold Wave Days,no trend,0.032,0.7262,0.0,No
+Gulmarg,Frost Days,no trend,-0.006,0.9207,0.0,No
+Gulmarg,Lowest minimum temperature,no trend,0.032,0.7617,0.0082,No
+Gulmarg,Mean minimum temperature,no trend,0.038,0.7174,0.0063,No
+Gulmarg,cool nights,no trend,-0.059,0.5719,0.0,No
+Gulmarg,warm nights,no trend,-0.058,0.5813,0.0,No
+Gulmarg,Cold Spell Duration Indicator,no trend,0.075,0.3245,0.0,No
+Gulmarg,Diurnal Temperature Range,increasing,0.271,0.009,0.0484,Yes
+Pahalgam,Cold Wave Days,no trend,0.129,0.2087,0.0267,No
+Pahalgam,Severe Cold Wave Days,no trend,0.166,0.0954,0.0,No
+Pahalgam,Frost Days,no trend,0.0,1.0,0.0,No
+Pahalgam,Lowest minimum temperature,no trend,-0.156,0.1345,-0.0276,No
+Pahalgam,Mean minimum temperature,decreasing,-0.253,0.0149,-0.0337,Yes
+Pahalgam,cool nights,no trend,0.163,0.1134,0.0417,No
+Pahalgam,warm nights,no trend,-0.184,0.0728,-0.0563,No
+Pahalgam,Cold Spell Duration Indicator,no trend,0.119,0.1606,0.0,No
+Pahalgam,Diurnal Temperature Range,increasing,0.362,0.0005,0.0343,Yes
+Baramulla,Cold Wave Days,no trend,-0.022,0.8305,0.0,No
+Baramulla,Severe Cold Wave Days,no trend,0.124,0.1854,0.0,No
+Baramulla,Frost Days,no trend,0.039,0.6994,0.0,No
+Baramulla,Lowest minimum temperature,no trend,-0.004,0.9766,-0.0008,No
+Baramulla,Mean minimum temperature,no trend,0.022,0.8372,0.0036,No
+Baramulla,cool nights,no trend,-0.028,0.7895,0.0,No
+Baramulla,warm nights,no trend,-0.001,1.0,0.0,No
+Baramulla,Cold Spell Duration Indicator,no trend,0.133,0.0654,0.0,No
+Baramulla,Diurnal Temperature Range,increasing,0.271,0.009,0.048,Yes
+Kupwara,Cold Wave Days,no trend,0.051,0.6101,0.0,No
+Kupwara,Severe Cold Wave Days,no trend,0.07,0.4549,0.0,No
+Kupwara,Frost Days,no trend,0.018,0.7592,0.0,No
+Kupwara,Lowest minimum temperature,no trend,0.006,0.961,0.0019,No
+Kupwara,Mean minimum temperature,no trend,-0.01,0.9298,-0.0022,No
+Kupwara,cool nights,no trend,0.005,0.9683,0.0,No
+Kupwara,warm nights,no trend,-0.032,0.7596,0.0,No
+Kupwara,Cold Spell Duration Indicator,no trend,0.109,0.1147,0.0,No
+Kupwara,Diurnal Temperature Range,increasing,0.244,0.0184,0.0368,Yes
+Qazigund,Cold Wave Days,no trend,-0.066,0.5251,0.0,No
+Qazigund,Severe Cold Wave Days,no trend,0.089,0.3625,0.0,No
+Qazigund,Frost Days,no trend,0.0,1.0,0.0,No
+Qazigund,Lowest minimum temperature,no trend,0.008,0.9454,0.0052,No
+Qazigund,Mean minimum temperature,no trend,0.024,0.822,0.0056,No
+Qazigund,cool nights,no trend,-0.017,0.8743,0.0,No
+Qazigund,warm nights,no trend,-0.053,0.6146,0.0,No
+Qazigund,Cold Spell Duration Indicator,no trend,-0.038,0.696,0.0,No
+Qazigund,Diurnal Temperature Range,increasing,0.271,0.009,0.0542,Yes

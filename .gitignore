@@ -1,0 +1,31 @@
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Large raw climate datasets
+*.grib
+*.grb
+*.nc
+*.nc4
+
+# Temporary files
+.DS_Store
+
+# Raw datasets
+raw data/
+snow data/
+
+# Large GIS boundary files
+gadm41_IND_shp/
+gadm41_IND_shp.zip
+
+# Optional: generated output folders
+# Outputs/
+# Plots for Pahalgam/
